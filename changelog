@@ -5,11 +5,11 @@ Secret Discontinued and Removed
 MORE OPTIMIZATION 
 Fix Announcement line error (the 2 it was on the 3  and the 3 it was on the 2 so it was looking like so bad)   + EXTRA 4TH ANNOUNCE
 No more Avast flaging with the proxies
+Socket got changed
+Hwid added for prevent leaks
 
 
 Ideas In Progress:                (warning, this is not confirmed if it will be added or not)
-Adding hwid for prevent leaks
-Change this Socket to a new 
 better database (= make possible change your user and pass)
 add a migrated (microsoft) checker
 
